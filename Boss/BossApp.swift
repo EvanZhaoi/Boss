@@ -11,7 +11,7 @@ import SwiftUI
 struct BossApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PLJobCellView()
         }
     }
 }
